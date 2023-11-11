@@ -1,6 +1,6 @@
 /* todoList.css */
 .post {
-  width:50%; /* Adjusted width to fit 4 posts in a row with spacing */
+  width:80%; /* Adjusted width to fit 4 posts in a row with spacing */
   margin: 10px;
   box-sizing: border-box;
   border: 1px solid #ee5f5f;
