@@ -1,0 +1,30 @@
+/* posts.css */
+.posts {
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .postname {
+    margin-bottom: 20px;
+  }
+  
+  .postname h1 {
+    font-size: 28px;
+    color: #f83737;
+    margin-bottom: 5px;
+  }
+  
+  .postname span {
+    font-size: 20px;
+    color: #555;
+  }
+  
+  /* Additional style for centering the posts */
+  .postsContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
